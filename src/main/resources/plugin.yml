@@ -1,8 +1,8 @@
-main: pl.bagnolimited.template.TemplatePlugin
-name: PluginTemplate
+main: pl.bagnolimited.goldenappleeffects.GoldenAppleEffectsPlugin
+name: GoldenAppleEffectsPlugin
 
-version: 1.0.0-SNAPSHOT
-description: Template plugin description.
+version: 1.0.0
+description: Change golden apple effects easily
 
 author: BagnoDevelopment
 website: github.bagnolimited.pl
